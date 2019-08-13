@@ -1,7 +1,7 @@
 {
   "name": "discordbot-ts-seed",
   "version": "1.0.0",
-  "description": "A seed project for a Discord bot written in Typescript",
+  "description": "A seed project for a Discord bot written in Typescript for rolling dice",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -16,6 +16,7 @@
   "devDependencies": {
     "@types/dotenv": "^6.1.1",
     "@types/jest": "^24.0.17",
+    "@types/seedrandom": "^2.4.28",
     "jest": "^24.8.0",
     "nodemon": "^1.19.1",
     "ts-jest": "^24.0.2",
@@ -25,6 +26,7 @@
   },
   "dependencies": {
     "discord.js": "^11.5.1",
-    "dotenv": "^8.0.0"
+    "dotenv": "^8.0.0",
+    "seedrandom": "^3.0.3"
   }
 }

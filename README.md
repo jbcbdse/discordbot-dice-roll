@@ -1,16 +1,6 @@
-# Typescript Seed project
+# Discord Dice Roller
 
-This is a barebones setup for a running application with Typescript and Node.
-
-Features:
-
-- node version specified in .nvmrc
-- Typescript installed as dev dependency
-- `npm run watch` configured with nodemon and ts-node
-- `npm run watch:debug` configured with `--inspect-brk` flag
-- tsconfig and tslint configs set up with sensible defaults
-- jest configured for unit testing with sensible defaults
-- This README
+This is a Discord bot for rolling dice. This was created as a simple project for a beginning school-age programmer.
 
 ## Using this seed
 
